@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://natalum.com/sitemap.xml
